@@ -1,0 +1,9 @@
+youtube-video-upload
+pyyaml
+colorama
+google-api-python-client
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+oauth2client
